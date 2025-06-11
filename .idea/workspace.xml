@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d1853680-4ab1-41d3-bca0-fec7f58444ea" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/FastAPI_endpoints_v.1..iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/business_logic/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/business_logic/services.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/db/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/db/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/db/repositories.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/db/setup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routing/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routing/dependencies.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routing/endpoints.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routing/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routing/schemas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routing/setup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Dockerfile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2y5mClreL4znHCMj57geo2DQZ0s" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.endpoints.executor": "Run",
+    "Python.entestements.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.setup.executor": "Run",
+    "Python.validators.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "editor.preferences.appearance"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-4f4e415b4190-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.26053.29" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d1853680-4ab1-41d3-bca0-fec7f58444ea" name="Changes" comment="" />
+      <created>1749132683930</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1749132683930</updated>
+    </task>
+    <servers />
+  </component>
+</project>
